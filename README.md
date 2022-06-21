@@ -1,3 +1,9 @@
+# ZX Spectrum for Sockit
+
+Ported from https://github.com/MiSTer-devel/ZX-Spectrum_MISTer according from Somhi sockit template.
+
+Follows original readme file.
+
 # [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) for MiSTer Platform
 
 Some verilog models from Till Harbaum [Spectrum](https://github.com/mist-devel/mist-board/tree/master/cores/spectrum) core were used in this project.
